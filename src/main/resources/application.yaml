@@ -2,7 +2,7 @@ spring:
   application:
     name: FirstServer
   datasource:
-    url: jdbc:mariadb://192.168.0.114/memo
+    url: jdbc:mariadb://localhost/memo
     username: root
     password: green502
 
