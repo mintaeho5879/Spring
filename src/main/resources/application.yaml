@@ -8,4 +8,4 @@ spring:
 
 mybatis:
   mapper-locations: mappers/**/*.xml
-#헤헤 끝났다
+#헤헤 끝났다 옘병
